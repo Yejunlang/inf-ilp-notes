@@ -18,8 +18,18 @@ Submitted only by `submit`, we have two pieces of coursework:
 
 Mobile phone game for Android, using Android Studio.
 
-> **Coinz**
+> **Coinz**: a collaborative location based game
 >
 > A prototype of a multiplayer collaborative location-based game to collect & exchange virtual coins, scattered at random
 > around the University of Edinburgh's Central Area.
 >
+
+- Coins are specified on a map
+- Coins are collected by visiting their location on the map (physically)
+    - Within 25 metres (...)
+- New maps released everyday
+- Aim is to get the most coins
+    
+**Maps**:
+
+- [Geo-JSON](https://geojson.io)
