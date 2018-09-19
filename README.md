@@ -11,3 +11,13 @@ Submitted only by `submit`, we have two pieces of coursework:
 2. Longer 15 page coursework. Imlementation and write-up (..)
     - 75% out of 75 marks
     - 4pm, Fri 14th Dec
+
+## The Task: Coinz
+
+Mobile phone game for Android, using Android Studio.
+
+> **Coinz**
+>
+> A prototype of a multiplayer collaborative location-based game to collect & exchange virtual coins, scattered at random
+> around the University of Edinburgh's Central Area.
+>
