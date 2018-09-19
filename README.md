@@ -58,4 +58,9 @@ Add some other cool bonus features :)
 
 ## Programming Language
 
-Kotlin or Java?? Your choice. Lets do Kotlin.
+Kotlin or Java?? Your choice.
+
+Lets do Kotlin:
+
+- Learn X in Y where [X=kotlin](https://learnxinyminutes.com/docs/kotlin/)
+- [Kotlin By Example](http://kotlinbyexample.org/)
