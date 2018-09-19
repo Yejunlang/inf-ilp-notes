@@ -1,6 +1,8 @@
 # ilp on [learn](http://course.inf.ed.ac.uk/ilp)
 ###### Informatics Large Practical 2018-2019
 
+###### _Lecture 1: 2018-09-19_
+
 Design and implementation projects.
 
 Submitted only by `submit`, we have two pieces of coursework:
@@ -12,7 +14,7 @@ Submitted only by `submit`, we have two pieces of coursework:
     - 75% out of 75 marks
     - 4pm, Fri 14th Dec
 
-## The Task: Coinz
+## The Task
 
 Mobile phone game for Android, using Android Studio.
 
