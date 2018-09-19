@@ -1,2 +1,3 @@
-# inf-ilp-notes
-Informatics Large Practical 2018-19
+# ilp on [learn](http://course.inf.ed.ac.uk/ilp)
+###### Informatics Large Practical 2018-2019
+
