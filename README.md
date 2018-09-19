@@ -33,3 +33,29 @@ Mobile phone game for Android, using Android Studio.
 **Maps**:
 
 - [Geo-JSON](https://geojson.io)
+
+## Understanding exchange rates
+
+Rates are relative to currency `GOLD`
+
+## Banking and _spare change_
+
+You can only bank up to 25 picked up coins a day. If you collect 40 coins one day, you can bank 25 and this leaves you with 15 
+spare change.
+
+You can send these to other people.
+They can cash that into their bank (this isn't affected by the limit of cashing 25 picked-up coins).
+
+## Banking?! Sending stuff? SERVERS??!!!
+
+> Use Firebase
+
+## Underspecification and bonus features
+
+This occurs quite often. Be creative.
+
+Add some other cool bonus features :)
+
+## Programming Language
+
+Kotlin or Java?? Your choice. Lets do Kotlin.
